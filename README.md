@@ -14,11 +14,11 @@
  - 博客园：https://www.cnblogs.com/hfy717/ 
  - Github：http://github.com/HanFeny
 
- - 能力介绍：擅长javaweb、html等，能使用C/C++、python、android、php等，对大数据方面有所涉猎，能使用hadoop、hive等。
-            能熟练使用Eclipse、IDEA、PyCharm、Android studio、VS、CB、phpstorm等编译软件.
-            能熟练使用StarUML、Premiere、Word、Excel、ppt、秀米等办公软件。
-            有新媒体运营的经历。
-            适应能力强，可自学并掌握所需要的新技能。
+ - 能力介绍：擅长javaweb、html等，能使用C/C++、python、android、php等，对大数据方面有所涉猎，能使用hadoop、hive等。  
+            能熟练使用Eclipse、IDEA、PyCharm、Android studio、VS、CB、phpstorm等编译软件.  
+            能熟练使用StarUML、Premiere、Word、Excel、ppt、秀米等办公软件。  
+            有新媒体运营的经历。  
+            适应能力强，可自学并掌握所需要的新技能。  
  - 求职意向：前端开发，软件测试，后端开发
  - 期望城市：河北、南京、洛阳、北京、上海
 
@@ -51,8 +51,8 @@
 # 学校社团和组织经历
 
 ### 校学生会/网信部
-主要负责校学生会微信公众平台与微博的运营。
-曾独自剪辑制作“五四”视频并于学校五四表彰大会上顺利播放，与人合作制作党团知识竞赛等校级试题问卷。
+主要负责校学生会微信公众平台与微博的运营。  
+曾独自剪辑制作“五四”视频并于学校五四表彰大会上顺利播放，与人合作制作党团知识竞赛等校级试题问卷。  
 
 ### 院青协/办公室
 协助院青协各部门的工作，参与多项志愿活动。
@@ -61,5 +61,6 @@
 # 其他
 - 火焰杯优秀奖
 - 英语四级已过，六级备考中
+- 普通话二级甲等
       
       
