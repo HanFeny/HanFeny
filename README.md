@@ -15,10 +15,10 @@
  - Github：http://github.com/HanFeny
 
  - 能力介绍：擅长javaweb、html等，能使用C/C++、python、android、php等，对大数据方面有所涉猎，能使用hadoop、hive等。  
-            能熟练使用Eclipse、IDEA、PyCharm、Android studio、VS、CB、phpstorm等编译软件.  
-            能熟练使用StarUML、Premiere、Word、Excel、ppt、秀米等办公软件。  
-            有新媒体运营的经历。  
-            适应能力强，可自学并掌握所需要的新技能。  
+   能熟练使用Eclipse、IDEA、PyCharm、Android studio、VS、CB、phpstorm等编译软件.  
+   能熟练使用StarUML、Premiere、Word、Excel、ppt、秀米等办公软件。  
+   有新媒体运营的经历。  
+   适应能力强，可自学并掌握所需要的新技能。  
  - 求职意向：前端开发，软件测试，后端开发
  - 期望城市：河北、南京、洛阳、北京、上海
 
